@@ -1,0 +1,83 @@
+.logo{
+    width: 100px;
+    height:20px;
+
+}
+.text-underline-hover{
+
+}
+.text-underline-hover:hover{
+    text-decoration: underline;
+}
+.icon{
+    padding-right: 10px;
+}
+.carousel-item {
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+}
+.carousel-caption{
+    position: absolute;
+   top: 10%;
+   left: 6!important;
+   
+}
+.carousel-caption{
+    text-align: left;
+} 
+.carousaltext{
+    color: black;
+    min size: 10px;
+    cursor: pointer;
+    
+}
+
+
+.text-primary:hover{
+    opacity: 0.5;
+}
+.img1{
+    width: 30px;
+
+height: 30px;
+    
+}
+
+#p1{
+    font-size: 1rem;
+    cursor: pointer;
+}
+#p1:hover{
+    text-decoration: underline;
+}
+.container-fluid{
+    width: 90%;
+}
+    
+.container-fluid {
+    padding-top: 10px;
+}
+.card{
+    margin-top: 20px;
+    max-width: 100%;
+   min-width: 100%;
+}
+.row text-center{
+    width: 100%;
+}
+.icon{
+    size: 20px;
+    cursor: pointer;
+}
+.grey{
+    background-color: rgb(242, 235, 235);
+    
+}
+#ud{
+
+}
+#ud:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
